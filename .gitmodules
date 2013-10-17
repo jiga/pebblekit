@@ -1,0 +1,3 @@
+[submodule "Pebble/apps"]
+	path = Pebble/apps
+	url = git://github.com/jiga/pebble-apps.git
